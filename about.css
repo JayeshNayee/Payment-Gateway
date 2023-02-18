@@ -1,0 +1,35 @@
+
+body{
+    background: url(https://cdn.givingcompass.org/wp-content/uploads/2017/12/26161635/How-to-Pick-the-Right-Charity.jpg);
+    height: 100vh;
+      -webkit-background-size: cover;
+      background-size: cover;
+      background-position: center center;
+      position: relative;
+  
+}
+#logo{
+  font:bolder;
+}
+#logo a:hover{
+}
+#navBar a{
+  font:bolder;
+  font-size: x-large;
+  padding-left:4px ;
+  font-size: 22px;
+}
+#navBar a:hover{
+  color: green;
+  background-color: white;
+}
+  p{
+
+    font:300px;
+    /* margin-top: 50%; */
+  
+    color: white;
+    font-weight: 400;
+    /* font-family:'Montserrat'; */
+    /* padding: 10%; */
+  }

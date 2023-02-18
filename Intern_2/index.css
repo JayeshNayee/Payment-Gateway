@@ -1,0 +1,33 @@
+#welcome{
+  margin-top: 20%;
+  justify-content: center;
+  text-align: center;
+} 
+#welcome a:hover{
+  color: blueviolet;
+}
+#welcome a{
+  text-decoration: none;
+
+}
+
+
+#navBar a{
+  font:bolder;
+  font-size: x-large;
+  opacity: 1;
+  font-size: 22px;
+}
+#navBar a:hover{
+  color: green;
+  background-color: white;
+}
+body{
+  background: url(https://cdn.givingcompass.org/wp-content/uploads/2017/12/26161635/How-to-Pick-the-Right-Charity.jpg);
+  height: 100vh;
+	-webkit-background-size: cover;
+	background-size: cover;
+	background-position: center center;
+	position: relative;
+
+}
